@@ -1,7 +1,8 @@
 /** Factorial of a number is the product of all the integers preceding the entered number and the number itself.
     For instance,
     factorial of 5 is 5*4*3*2*1=120.
-    The JAVA code for calculation of the factorial of the entered number is as follows:*/
+    The JAVA code for calculation of the factorial of the entered number is as follows:
+    Do dry run it using any real and non-negative value of n and then implement it on NETbeans or BlueJ*/
     ------------------------------------------------------------------------------------------------->
     class FACTORIAL
     { 
@@ -16,3 +17,4 @@
         System.out.println("The factorial of the entered number is="+f);  //Command to print the factorial of the entered number.//
       }//method closed//
      }//class closed//
+        
